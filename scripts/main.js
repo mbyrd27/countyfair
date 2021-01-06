@@ -1,13 +1,13 @@
-import { FoodTicketHolder } from './food/FoodTicketHolders.js';
-import { RideTicketHolders } from './rides/RideTicketHolders.js';
-import { GameTicketHolder } from './games/GameTicketHolder.js'
 import { TicketBooth } from './TicketBooth.js'
-import { ShowTicketHolders } from './sideshows/ShowTicketHolders.js';
+import './food/FoodTicketHolders.js';
+import './rides/RideTicketHolders.js';
+import './games/GameTicketHolder.js'
+import './sideshows/ShowTicketHolders.js';
 
 
 TicketBooth();
-RideTicketHolders();
-FoodTicketHolder();
-GameTicketHolder();
-ShowTicketHolders();
+// RideTicketHolders();
+// FoodTicketHolder();
+// GameTicketHolder();
+// ShowTicketHolders();
 
