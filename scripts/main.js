@@ -3,6 +3,7 @@ import './food/FoodTicketHolders.js';
 import './rides/RideTicketHolders.js';
 import './games/GameTicketHolder.js'
 import './sideshows/ShowTicketHolders.js';
+import './Counter.js'
 
 
 TicketBooth();
